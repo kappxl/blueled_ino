@@ -8,3 +8,8 @@ This Sketch for Arduino Nano/Uno is made for controlling LED Stripes via Bluetoo
 - SK6812 (RGBW LED Stripe)
 
 If you don't know how to send the commands, you can checkout [my android app](https://github.com/kappxl/Blueled).
+
+
+### Notes
+
+The actual code is designed for backlighting arranged as a circle with 30 LEDs. But of course it's fully customizable.
