@@ -7,7 +7,7 @@ This Sketch for Arduino Nano/Uno is made for controlling LED Stripes via Bluetoo
 - Arduino Uno (Microcontroller)
 - SK6812 (RGBW LED Stripe)
 
-If you don't know how to send the commands, you can checkout [my android app](https://github.com/kappxl/Blueled).
+To use this with your smartphone, checkout [my android app](https://github.com/kappxl/Blueled).
 
 
 ### Notes
